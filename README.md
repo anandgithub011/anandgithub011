@@ -1,11 +1,11 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://github.com/anandgithub011/)
 <h1 align="center">Hi 👋, I'm Anand Kumar Mahaseth</h1>
-<h3 align="center">A passionate Frontened Developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
 
 # 💫 About Me:
-- 🌱 I’m a *Frontenend developer*.
+- 🌱 I’m a *Frontend developer*.
 
 - 👨‍💻 All of my projects are available at []()
 
