@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar Mahaseth</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<img width="400" align="right" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" alt="animated"/>
+<img width="400" align="right" src="https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif" alt="animated"/>
 
 # 💫 About Me:
 - 🌱 I’m a *Frontend developer*.
